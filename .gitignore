@@ -5,3 +5,6 @@ node_modules
 .cache
 .output
 dist
+
+/coverage
+junit.xml
